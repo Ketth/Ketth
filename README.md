@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ketzinha&theme=radical&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&background=000000&ring=DD77FF&fire=DD77FF&currStreakNum=DD77FF&sideNums=DD77FF&currStreakLabel=DD77FF&sideLabels=DD77FF&stroke=DD77FF&border=DD77FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ketth&theme=radical&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&background=000000&ring=DD77FF&fire=DD77FF&currStreakNum=DD77FF&sideNums=DD77FF&currStreakLabel=DD77FF&sideLabels=DD77FF&stroke=DD77FF&border=DD77FF)](https://git.io/streak-stats)
 
 
 </div>
@@ -82,7 +82,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKetzinha&s=50&c=8a2be2&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKetth&s=50&c=8a2be2&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
 <br>
 </div>
 
